@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR4b0018/SBCK/v1/juan/5
+seq: 5
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 庾
+  hash: sha256:3853417a695d22696569a9b6b5eeaf82e9f1bf42fe12b71199e1e4dcdca247f1
+metadata:
+  title: 庾子山集
+  edition:
+    short: SBCK
+    label: 【四部叢刊】
+  date: '2015-08-30 11:48:26.839228'
+  source:
+    repository: kanripo
+    path: KR4b0018/KR4b0018_005.txt
+  image_base_urls:
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+hash: sha256:c5c2a03fb8858bf478853ba3d0f835cfb4c64a7d16a615bdbbf9498fe178965c

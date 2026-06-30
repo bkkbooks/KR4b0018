@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR4b0018/SBCK/v1/juan/13
+seq: 13
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 沉
+  hash: sha256:bbc732bca43640606493338fb1cda061296a8d7d21e6fe2769bc8d6cc2552f98
+metadata:
+  title: 庾子山集
+  edition:
+    short: SBCK
+    label: 【四部叢刊】
+  date: '2015-08-30 11:48:26.839228'
+  source:
+    repository: kanripo
+    path: KR4b0018/KR4b0018_013.txt
+  image_base_urls:
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+hash: sha256:fb8d00ed3c765cc3fd13585a07ed2f87b88e9dc41f9e130630348d0743c6d6fc
